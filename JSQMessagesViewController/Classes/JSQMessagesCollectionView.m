@@ -24,7 +24,9 @@
 
 - (void)awakeFromNib
 {
+    
     [super awakeFromNib];
+    
     [self setTranslatesAutoresizingMaskIntoConstraints:NO];
     
     self.backgroundColor = [UIColor whiteColor];

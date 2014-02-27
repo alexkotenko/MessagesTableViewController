@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47ACC2E718BF5F2300ADE428 /* IMG_2179.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 47ACC2E618BF5F2300ADE428 /* IMG_2179.PNG */; };
 		6404600EC231419EB620AF48 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AFF9601294443728D9481E0 /* libPods.a */; };
 		883F2B2D18BAE902003BC4B5 /* JSQMessagesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 883F2B2C18BAE902003BC4B5 /* JSQMessagesViewController.m */; };
 		883F2B3118BAE9CF003BC4B5 /* JSQMessagesCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 883F2B3018BAE9CF003BC4B5 /* JSQMessagesCollectionView.m */; };
@@ -92,6 +93,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		47ACC2E618BF5F2300ADE428 /* IMG_2179.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_2179.PNG; path = ../../../../../Desktop/IMG_2179.PNG; sourceTree = "<group>"; };
 		6AFF9601294443728D9481E0 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		883F2B2B18BAE902003BC4B5 /* JSQMessagesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSQMessagesViewController.h; path = Classes/JSQMessagesViewController.h; sourceTree = "<group>"; };
 		883F2B2C18BAE902003BC4B5 /* JSQMessagesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JSQMessagesViewController.m; path = Classes/JSQMessagesViewController.m; sourceTree = "<group>"; };
@@ -407,6 +409,7 @@
 		88A3FC3A182E0EA000705327 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				47ACC2E618BF5F2300ADE428 /* IMG_2179.PNG */,
 				88A6AD011839FE95000F56DA /* bubble-flat */,
 				88A6AD1A1839FFBB000F56DA /* input-bar-flat */,
 			);
@@ -539,6 +542,7 @@
 				883F2B3E18BAF3AD003BC4B5 /* JSQMessages.storyboard in Resources */,
 				88A6AD0F1839FE95000F56DA /* bubble-min-tailless@2x.png in Resources */,
 				88A6AD101839FE95000F56DA /* bubble-min.png in Resources */,
+				47ACC2E718BF5F2300ADE428 /* IMG_2179.PNG in Resources */,
 				88A6AD1F1839FFBB000F56DA /* button-photo.png in Resources */,
 				883F2B4618BAF516003BC4B5 /* JSQMessagesCollectionViewCellOutgoing.xib in Resources */,
 				88A3FCA5182E0EA000705327 /* message-received.aiff in Resources */,
